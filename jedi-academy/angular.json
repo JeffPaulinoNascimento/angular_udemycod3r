@@ -7,7 +7,7 @@
       "projectType": "application",
       "schematics": {},
       "root": "",
-      "sourceRoot": "sangularrc",
+      "sourceRoot": "src",
       "prefix": "jad",
       "architect": {
         "build": {
