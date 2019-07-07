@@ -1,6 +1,11 @@
-<div class="">
-  Student: {{student.name}}
-  <div *ngIf="student.isJedi">
-    Jedi Temple: Coruscant
+<div *ngIf="student">
+  <!-- entre parenteses ( ) é um evento, nesse caso evento de click -->
+  Student: <a href="#" (click)="clicked()">{{student?.name}}</a> <!--o atributo ' ? ' deixa o student opcional na hora de chamar o component para renderizar na tela -->
+  <div *ngIf="student?.isJedi">
+    Jedi Temple: {{student?.temple}}<button (click)="descricao.focus()">Focus!</button>
+    <textarea #descricao></textarea>
   </div>
 </div>
+<p *ngIf="!student">
+  Student: Sem dados para exibir
+</p>
