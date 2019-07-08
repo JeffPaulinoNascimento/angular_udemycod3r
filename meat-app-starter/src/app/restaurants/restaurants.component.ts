@@ -15,7 +15,7 @@ export class RestaurantsComponent implements OnInit {
 
   // ngOnInit - ele espera carregar tudo do componente inclusive as dependecias para depois executar o codigo dentro dele
   ngOnInit() {
-    this.restaurants = this.restaurantsService.restaurants()
+    this.restaurantsService.restaurants().subscribe(restaurants => this.restaurants = restaurants)
   }
 
 }
