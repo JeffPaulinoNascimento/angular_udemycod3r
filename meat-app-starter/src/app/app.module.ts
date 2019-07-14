@@ -17,7 +17,12 @@ import { MenuComponent } from './restaurant-detail/menu/menu.component';
 import { ShoppingCartComponent } from './restaurant-detail/shopping-cart/shopping-cart.component';
 import { MenuItemComponent } from './restaurant-detail/menu-item/menu-item.component';
 import { ReviewsComponent } from './restaurant-detail/reviews/reviews.component';
-import {ShoppingCartService} from './restaurant-detail/shopping-cart/shopping-cart.service'
+import {ShoppingCartService} from './restaurant-detail/shopping-cart/shopping-cart.service';
+import { OrderComponent } from './order/order.component'
+import {FormsModule} from '@angular/forms';
+import { InputComponent } from './shared/input/input.component';
+import { RadioComponent } from './shared/radio/radio.component';
+import { OrderItemsComponent } from './order/order-items/order-items.component'
 
 @NgModule({
   declarations: [
@@ -32,10 +37,15 @@ import {ShoppingCartService} from './restaurant-detail/shopping-cart/shopping-ca
     ShoppingCartComponent,
     MenuItemComponent,
     ReviewsComponent,
+    OrderComponent,
+    InputComponent,
+    RadioComponent,
+    OrderItemsComponent,
   ],
   imports: [
     BrowserModule,
     HttpModule,
+    FormsModule,
     RouterModule.forRoot(ROUTES)
   ],
   providers: [RestaurantsService, ShoppingCartService, {provide: LOCALE_ID, useValue: 'pt-BR'}],
