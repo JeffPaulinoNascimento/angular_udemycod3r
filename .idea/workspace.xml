@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da8a56b3-2419-43ee-b507-c67a5e575f2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/meat-app-starter/src/app/shared/radio/radio-option.model.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/app.routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/app.routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/shopping-cart/shopping-cart.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/shopping-cart/shopping-cart.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meat-app-template/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-template/order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,40 +33,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/order/order-items/order-items.component.ts">
+        <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="252">
+              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
               <folding>
-                <element signature="e#0#54#0" expanded="true" />
+                <element signature="e#0#50#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/shopping-cart/cart-item.model.ts">
+        <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/order/order-items/order-items.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+            <state relative-caret-position="378">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -83,6 +72,7 @@
       <find>CartItem</find>
       <find>.has-error</find>
       <find>ite</find>
+      <find>table-respons</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -125,12 +115,14 @@
         <option value="$PROJECT_DIR$/meat-app-starter/src/app/shared/radio/radion-option.model.ts" />
         <option value="$PROJECT_DIR$/meat-app-starter/src/app/shared/radio/radio-option.model.ts" />
         <option value="$PROJECT_DIR$/meat-app-starter/src/app/shared/radio/radio.component.html" />
-        <option value="$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.ts" />
         <option value="$PROJECT_DIR$/meat-app-starter/src/app/shared/radio/radio.component.ts" />
-        <option value="$PROJECT_DIR$/meat-app-starter/src/app/app.module.ts" />
-        <option value="$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.html" />
         <option value="$PROJECT_DIR$/meat-app-starter/src/app/order/order-items/order-items.component.ts" />
         <option value="$PROJECT_DIR$/meat-app-starter/src/app/order/order-items/order-items.component.html" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/app.module.ts" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.html" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.ts" />
       </list>
     </option>
   </component>
@@ -148,6 +140,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -189,6 +182,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="order" type="462c0819:PsiDirectoryNode" />
+              <item name="delivery-costs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular_udemycod3r" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular_udemycod3r" type="462c0819:PsiDirectoryNode" />
+              <item name="meat-app-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="order" type="462c0819:PsiDirectoryNode" />
               <item name="order-items" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -197,7 +199,7 @@
               <item name="meat-app-starter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
+              <item name="restaurant-detail" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="angular_udemycod3r" type="b2602c69:ProjectViewProjectNode" />
@@ -205,8 +207,16 @@
               <item name="meat-app-starter" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="shared" type="462c0819:PsiDirectoryNode" />
-              <item name="radio" type="462c0819:PsiDirectoryNode" />
+              <item name="restaurant-detail" type="462c0819:PsiDirectoryNode" />
+              <item name="shopping-cart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="angular_udemycod3r" type="b2602c69:ProjectViewProjectNode" />
+              <item name="angular_udemycod3r" type="462c0819:PsiDirectoryNode" />
+              <item name="meat-app-starter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="restaurants" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="angular_udemycod3r" type="b2602c69:ProjectViewProjectNode" />
@@ -217,7 +227,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,7 +242,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="C:\Users\JeffRapha\Documents\Desenvolvimento\Workspace\angular_udemycod3r\meat-app-starter\node_modules\typescript\lib" />
   </component>
   <component name="RunDashboard">
@@ -269,16 +278,20 @@
       <workItem from="1563029945288" duration="14651000" />
       <workItem from="1563109483791" duration="1671000" />
       <workItem from="1563111210961" duration="13342000" />
+      <workItem from="1563652995612" duration="746000" />
+      <workItem from="1563654476544" duration="604000" />
+      <workItem from="1563728451684" duration="1422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55155000" />
+    <option name="totallyTimeSpent" value="57927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1054" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2755102" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2878625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -296,7 +309,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.6750764" weight="0.32850242" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="TypeScript" order="10" sideWeight="0.49923548" weight="0.32850242" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.50107414" side_tool="true" visible="true" weight="0.25813693" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.50107414" side_tool="true" visible="true" weight="0.25813693" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.56390977" side_tool="true" weight="0.3299595" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24973147" />
@@ -350,23 +363,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/meat-app-template/detail-restaurant.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="63" column="8" lean-forward="true" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/app.error-handler.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/restaurant-detail.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -651,33 +647,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/shared/radio/radio.component.spec.ts">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/app.routes.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/shared/radio/radio.component.spec.ts" />
     <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/shared/radio/radio-option.model.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -702,20 +676,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="68" lean-forward="true" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/app.module.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        <state relative-caret-position="476">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/app.routes.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
           <folding>
-            <element signature="e#0#58#0" expanded="true" />
+            <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.html">
+    <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/order/order-items/order-items.component.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
+        <state relative-caret-position="441">
+          <caret line="21" column="77" selection-start-line="21" selection-start-column="77" selection-end-line="21" selection-end-column="77" />
         </state>
       </provider>
     </entry>
@@ -728,18 +716,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/order/order-items/order-items.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
+        <state>
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/order/order-items/order-items.component.html">
+    <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        <state relative-caret-position="378">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
