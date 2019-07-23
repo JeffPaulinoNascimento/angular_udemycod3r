@@ -1,6 +1,7 @@
 import {Injectable} from '@angular/core'
 import {ShoppingCartService} from '../restaurant-detail/shopping-cart/shopping-cart.service'
 import {CartItem} from '../restaurant-detail/shopping-cart/cart-item.model'
+import {Order} from './order.model'
 
 @Injectable()
 export class OrderService{
@@ -26,5 +27,9 @@ export class OrderService{
 
   itemsValue(): number{
     return this.cartService.total()
+  }
+
+  checkOrder(order: Order) {
+    
   }
 }
