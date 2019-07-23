@@ -46,9 +46,15 @@ export class OrderComponent implements OnInit {
 
   checkOrder(order: Order){
     //transformando array de cartItem em orderItem
+
+    //subscribe para o observable fazer a requisição
     order.orderItems = this.cartItems()
       .map((item:CartItem) => new OrderItem(item.quantity, item.menuItem.id))
-    this.orderService.checkOrder(order)
+    // o que vai ser executado quando a resposta chegar => orderId
+    this.orderService.checkOrder(order).subscribe((orderId: string) => {
+      console.log(`Compra concluida: ${orderId}`)
+      this.orderService.clear()
+    })
     console.log(order)
   }
 }
