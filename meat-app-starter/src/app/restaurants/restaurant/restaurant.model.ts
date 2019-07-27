@@ -1,5 +1,4 @@
 export interface Restaurant {
-
   id: string
   name: string
   category: string
@@ -8,5 +7,5 @@ export interface Restaurant {
   imagePath: string
   about: string
   hours: string
-
+  telefone: string
 }
