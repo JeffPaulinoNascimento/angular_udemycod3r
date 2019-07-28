@@ -34,8 +34,7 @@ export class OrderComponent implements OnInit {
       number: this.formBuilder.control(''),
       optionalAddress: this.formBuilder.control(''),
       paymentAddress: this.formBuilder.control(''),
-
-
+      paymentOption: this.formBuilder.control('')
     })
   }
 

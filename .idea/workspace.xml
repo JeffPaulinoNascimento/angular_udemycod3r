@@ -11,10 +11,12 @@
       <change beforePath="$PROJECT_DIR$/meat-app-starter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/app.module.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/order-summary/order-summary.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/order-summary/order-summary.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/restaurant-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/restaurant-detail.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/restaurants/restaurant/restaurant.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/restaurants/restaurant/restaurant.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/restaurants/restaurant/restaurant.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/restaurants/restaurant/restaurant.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/shared/input/input.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/shared/input/input.component.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,12 +44,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="596" />
-    <option name="y" value="-19" />
-    <option name="width" value="775" />
-    <option name="height" value="747" />
   </component>
   <component name="ProjectId" id="1ObFSauVC8dJACnSfo6LQfz6hsW" />
   <component name="ProjectLevelVcsManager">
@@ -111,7 +107,7 @@
       <workItem from="1563654476544" duration="604000" />
       <workItem from="1563728451684" duration="1422000" />
       <workItem from="1564237977609" duration="83000" />
-      <workItem from="1564238418174" duration="11389000" />
+      <workItem from="1564238418174" duration="13925000" />
     </task>
     <servers />
   </component>
