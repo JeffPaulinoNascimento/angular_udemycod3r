@@ -2,10 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da8a56b3-2419-43ee-b507-c67a5e575f2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/src/app/shared/messages/notification.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/src/app/shared/messages/snackbar/snackbar.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/src/app/shared/messages/snackbar/snackbar.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/src/app/shared/messages/snackbar/snackbar.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meat-app-starter/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/shopping-cart/shopping-cart.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/shopping-cart/shopping-cart.service.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/shared/shared.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/shared/shared.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/polyfills.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/polyfills.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,6 +106,8 @@
       <workItem from="1564237977609" duration="83000" />
       <workItem from="1564238418174" duration="13925000" />
       <workItem from="1564321149231" duration="9722000" />
+      <workItem from="1564838989479" duration="3520000" />
+      <workItem from="1564957325297" duration="1908000" />
     </task>
     <servers />
   </component>

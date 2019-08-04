@@ -17,6 +17,7 @@ import { MenuItemComponent } from './restaurant-detail/menu-item/menu-item.compo
 import { ReviewsComponent } from './restaurant-detail/reviews/reviews.component';
 import { OrderSummaryComponent } from './order-summary/order-summary.component';
 import {SharedModule} from './shared/shared.module'
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations'
 
 @NgModule({
   declarations: [
@@ -35,6 +36,7 @@ import {SharedModule} from './shared/shared.module'
   imports: [
     BrowserModule,
     HttpModule,
+    BrowserAnimationsModule,
     // FormsModule, //com o shared.module.ts não preciso mais importar o formsModule nem o ReactiveFormsModule, pois eles ja vem juno com o shared.module.ts
     // ReactiveFormsModule,
     SharedModule.forRoot(),
