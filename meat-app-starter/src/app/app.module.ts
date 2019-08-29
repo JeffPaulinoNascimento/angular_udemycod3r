@@ -1,6 +1,5 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule, LOCALE_ID } from '@angular/core';
-import { HttpModule } from '@angular/http';
 import {PreloadAllModules, RouterModule} from '@angular/router'
 
 import{ROUTES} from './app.routes';
@@ -20,6 +19,7 @@ import {SharedModule} from './shared/shared.module'
 import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import { NotFoundComponent } from './not-found/not-found.component'
 import {HashLocationStrategy, LocationStrategy} from '@angular/common'
+import {HttpClientModule} from '@angular/common/http'
 
 @NgModule({
   declarations: [
@@ -38,7 +38,7 @@ import {HashLocationStrategy, LocationStrategy} from '@angular/common'
   ],
   imports: [
     BrowserModule,
-    HttpModule,
+    HttpClientModule,
     BrowserAnimationsModule,
     // FormsModule, //com o shared.module.ts não preciso mais importar o formsModule nem o ReactiveFormsModule, pois eles ja vem juno com o shared.module.ts
     // ReactiveFormsModule,
