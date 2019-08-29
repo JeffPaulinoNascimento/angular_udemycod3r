@@ -15,9 +15,9 @@ export class RestaurantsService {
 
   //Observable porque o serviço retorna um Observable e não os Restaurants
   //Precisamos transformar a resposta em um array de restaurants com map que recebe um response e retorna um response.json
-  restaurants(): Observable<Restaurant[]> {
+  restaurants(search?: string): Observable<Restaurant[]> {
     // localhost:3000/restaurants
-    return this.http.get(`${MEAT_API}/restaurants`).map(response => response.json())
+    return this.http.get(`${MEAT_API}/restaurants`, {params: {q: search}}).map(response => response.json())
       // .catch(ErrorHandler.handleError)
   }
 
