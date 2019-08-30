@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da8a56b3-2419-43ee-b507-c67a5e575f2e" name="Default Changelist" comment="" />
+    <list default="true" id="da8a56b3-2419-43ee-b507-c67a5e575f2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/dist/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/dist/server.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/server.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/db.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/app.error-handler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/app.error-handler.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.model.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/restaurants/restaurants.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/restaurants/restaurants.service.ts" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +64,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
     <property name="ts.external.directory.path" value="C:\Users\Jefferson\Documents\Intelij\Workspace\angular_udemycod3r\meat-app-starter\node_modules\typescript\lib" />
   </component>
   <component name="RunDashboard">
@@ -99,11 +113,37 @@
       <workItem from="1565478935243" duration="923000" />
       <workItem from="1566164253408" duration="2092000" />
       <workItem from="1567083199875" duration="4691000" />
+      <workItem from="1567101063818" duration="3071000" />
+      <workItem from="1567164775778" duration="10597000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-hasmetadata.js.map" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getmetadata.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-definemetadata.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-decorate.js.map" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getmetadata.js.map" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getownmetadatakeys.js.map" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getownmetadatakeys.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-hasownmetadata.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-metadata.js.map" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-definemetadata.js.map" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getownmetadata.js.map" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-hasownmetadata.js.map" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-deletemetadata.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getmetadatakeys.js.map" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-decorate.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-metadata.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-deletemetadata.js.map" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getmetadatakeys.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-hasmetadata.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getownmetadata.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -124,21 +164,5 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>

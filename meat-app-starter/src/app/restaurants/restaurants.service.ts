@@ -5,7 +5,7 @@ import {Observable} from "rxjs/Observable";
 import "rxjs/add/operator/map";
 import "rxjs/add/operator/catch";
 import {MenuItem} from '../restaurant-detail/menu-item/menu-item.model'
-import {HttpClient} from '@angular/common/http'
+import {HttpClient, HttpParams} from '@angular/common/http'
 // import {ErrorHandler} from '../app.error-handler'
 
 @Injectable()
@@ -16,8 +16,12 @@ export class RestaurantsService {
   //Observable porque o serviço retorna um Observable e não os Restaurants
   //Precisamos transformar a resposta em um array de restaurants com map que recebe um response e retorna um response.json
   restaurants(search?: string): Observable<Restaurant[]> {
+    let params: HttpParams = undefined
+    if(search){
+      params = new HttpParams().set('q', search)
+    }
     // localhost:3000/restaurants
-    return this.http.get(`${MEAT_API}/restaurants`, {params: {q: search}}).map(response => response.json())
+    return this.http.get<Restaurant[]>(`${MEAT_API}/restaurants`, {params: params})
   }
 
   restaurantById(id: String): Observable<Restaurant>{
