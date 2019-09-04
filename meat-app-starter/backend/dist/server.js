@@ -2,6 +2,7 @@
 exports.__esModule = true;
 var jsonServer = require("json-server");
 var fs = require("fs");
+var auth_1 = require("./auth");
 var server = jsonServer.create();
 var router = jsonServer.router('db.json');
 var middlewares = jsonServer.defaults();
@@ -10,6 +11,8 @@ server.use(middlewares);
 // To handle POST, PUT and PATCH you need to use a body-parser
 // You can use the one used by JSON Se
 server.use(jsonServer.bodyParser);
+//middleware para login
+server.post('/login', auth_1.handleAuthentication);
 server.use(router);
 var options = {
     cert: fs.readFileSync('./backend/keys/cert.pem'),

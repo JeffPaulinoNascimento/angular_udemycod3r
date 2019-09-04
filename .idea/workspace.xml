@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da8a56b3-2419-43ee-b507-c67a5e575f2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/dist/server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/dist/server.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/server.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meat-app-starter/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/auth.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/dist/auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/dist/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/users.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meat-app-starter/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/db.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meat-app-starter/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meat-app-starter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/app.error-handler.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/app.error-handler.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.model.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/order/order.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meat-app-starter/src/app/restaurants/restaurants.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/src/app/restaurants/restaurants.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/backend/dist/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/backend/dist/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/backend/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/backend/server.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +48,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563200031454" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webservices-rest-com-jaxrs-e-jersey" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -114,7 +108,8 @@
       <workItem from="1566164253408" duration="2092000" />
       <workItem from="1567083199875" duration="4691000" />
       <workItem from="1567101063818" duration="3071000" />
-      <workItem from="1567164775778" duration="10597000" />
+      <workItem from="1567164775778" duration="11203000" />
+      <workItem from="1567598725431" duration="4749000" />
     </task>
     <servers />
   </component>
