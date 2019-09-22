@@ -1,0 +1,1 @@
+{"version":3,"file":"notification.service.js","sourceRoot":"","sources":["../../../../../src/app/shared/messages/notification.service.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,YAAY,EAAC,MAAM,eAAe,CAAA;AAE1C;IAAA;QACE,aAAQ,GAAG,IAAI,YAAY,EAAU,CAAA;IAKvC,CAAC;IAHC,oCAAM,GAAN,UAAO,OAAe;QACpB,IAAI,CAAC,QAAQ,CAAC,IAAI,CAAC,OAAO,CAAC,CAAA;IAC7B,CAAC;IACH,0BAAC;AAAD,CAAC,AAND,IAMC"}

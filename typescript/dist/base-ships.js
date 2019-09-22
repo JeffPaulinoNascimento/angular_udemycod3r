@@ -1,6 +1,6 @@
 "use strict";
 exports.__esModule = true;
-var Spacecraft = /** @class */ (function () {
+var Spacecraft = (function () {
     function Spacecraft(propulsor) {
         this.propulsor = propulsor;
     }

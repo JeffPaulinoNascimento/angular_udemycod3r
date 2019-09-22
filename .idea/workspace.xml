@@ -2,13 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="da8a56b3-2419-43ee-b507-c67a5e575f2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/auth.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/dist/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/dist/users.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/users.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jedi-academy/tsconfig.app.json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jedi-academy/tsconfig.spec.json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/authz.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/backend/dist/authz.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/about/about.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/about/about.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/about/about.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/about/about.module.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/app.api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/app.api.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/app.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/app.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/app.error-handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/app.error-handler.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/app.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/app.module.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/app.routes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/app.routes.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/header/header.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/header/header.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/home/home.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/home/home.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/not-found/not-found.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/not-found/not-found.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/order-summary/order-summary.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/order-summary/order-summary.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/order/delivery-costs/delivery-costs.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/order/delivery-costs/delivery-costs.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/order/order-items/order-items.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/order/order-items/order-items.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/order/order.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/order/order.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/order/order.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/order/order.model.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/order/order.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/order/order.module.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/order/order.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/order/order.service.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/menu-item/menu-item.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/menu-item/menu-item.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/menu-item/menu-item.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/menu-item/menu-item.model.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/menu/menu.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/menu/menu.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/restaurant-detail.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/restaurant-detail.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/reviews/reviews.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/reviews/reviews.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/shopping-cart/cart-item.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/shopping-cart/cart-item.model.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/shopping-cart/shopping-cart.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/shopping-cart/shopping-cart.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/shopping-cart/shopping-cart.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurant-detail/shopping-cart/shopping-cart.service.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurants/restaurant/restaurant.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurants/restaurant/restaurant.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurants/restaurant/restaurant.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurants/restaurant/restaurant.model.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurants/restaurants.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurants/restaurants.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurants/restaurants.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/restaurants/restaurants.service.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/shared/input/input.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/shared/input/input.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/shared/messages/notification.service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/shared/messages/notification.service.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/shared/messages/snackbar/snackbar.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/shared/messages/snackbar/snackbar.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/shared/radio/radio-option.model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/shared/radio/radio-option.model.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/shared/radio/radio.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/shared/radio/radio.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/shared/rating/rating.component.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/shared/rating/rating.component.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/shared/shared.module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/app/shared/shared.module.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/environments/environment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/environments/environment.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/environments/environment.prod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/environments/environment.prod.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/polyfills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/out-tsc/app/polyfills.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meat-app-starter/src/tsconfig.spec.json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/dist/importandoBibliotecaJSnoTypescript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/backend/auth.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/backend/auth.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meat-app-starter/backend/dist/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/backend/dist/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/backend/dist/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/backend/dist/users.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/meat-app-starter/backend/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/backend/server.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/backend/users.ts" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/backend/users.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meat-app-starter/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/meat-app-starter/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/dist/base-ships.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/dist/base-ships.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typescript/dist/starfighters.js" beforeDir="false" afterPath="$PROJECT_DIR$/typescript/dist/starfighters.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +149,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
-    <property name="ts.external.directory.path" value="C:\Users\Jefferson\Documents\Intelij\Workspace\angular_udemycod3r\meat-app-starter\node_modules\typescript\lib" />
+    <property name="ts.external.directory.path" value="C:\Users\JeffRapha\Documents\Desenvolvimento\Workspace\angular_udemycod3r\meat-app-starter\node_modules\typescript\lib" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -110,6 +200,9 @@
       <workItem from="1567101063818" duration="3071000" />
       <workItem from="1567164775778" duration="11203000" />
       <workItem from="1567598725431" duration="4749000" />
+      <workItem from="1569179592296" duration="2023000" />
+      <workItem from="1569181650969" duration="152000" />
+      <workItem from="1569181881130" duration="27000" />
     </task>
     <servers />
   </component>
@@ -117,26 +210,74 @@
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
       <list>
-        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-hasmetadata.js.map" />
-        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getmetadata.js" />
-        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-definemetadata.js" />
-        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-decorate.js.map" />
-        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getmetadata.js.map" />
-        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getownmetadatakeys.js.map" />
-        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getownmetadatakeys.js" />
-        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-hasownmetadata.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-hasmetadata.js" />
         <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-metadata.js.map" />
         <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-definemetadata.js.map" />
         <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getownmetadata.js.map" />
-        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-hasownmetadata.js.map" />
-        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-deletemetadata.js" />
-        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getmetadatakeys.js.map" />
-        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-decorate.js" />
-        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-metadata.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getownmetadatakeys.js" />
         <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-deletemetadata.js.map" />
-        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getmetadatakeys.js" />
-        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-hasmetadata.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getownmetadatakeys.js.map" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-hasownmetadata.js.map" />
         <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getownmetadata.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-hasmetadata.js.map" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-decorate.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-decorate.js.map" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-deletemetadata.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-definemetadata.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-hasownmetadata.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getmetadata.js.map" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getmetadatakeys.js.map" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getmetadatakeys.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-getmetadata.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/node_modules/reflect-metadata/test/reflect-metadata.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/shared/shared.module.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/shared/messages/snackbar/snackbar.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/shared/messages/notification.service.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/shared/radio/radio-option.model.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/shared/radio/radio.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/home/home.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/menu-item/menu-item.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/menu-item/menu-item.model.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/shared/rating/rating.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/shared/input/input.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/header/header.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/about/about.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/about/about.module.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/restaurants/restaurant/restaurant.model.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/restaurants/restaurant/restaurant.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/restaurants/restaurants.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/restaurants/restaurants.service.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/not-found/not-found.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/environments/environment.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/environments/environment.prod.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/order-summary/order-summary.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/app.module.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/index.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/app.routes.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/app.error-handler.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/app.api.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/app.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/polyfills.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/test.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/main.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/backend/authz.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/backend/auth.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/backend/server.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/backend/users.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/e2e/app.e2e-spec.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/e2e/app.po.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/shopping-cart/cart-item.model.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/shopping-cart/shopping-cart.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/shopping-cart/shopping-cart.service.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/reviews/reviews.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/order/delivery-costs/delivery-costs.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/restaurant-detail.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/order/order-items/order-items.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/order/order.component.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/order/order.model.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/order/order.module.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/order/order.service.js" />
+        <option value="$PROJECT_DIR$/meat-app-starter/src/app/restaurant-detail/menu/menu.component.js" />
       </list>
     </option>
   </component>
